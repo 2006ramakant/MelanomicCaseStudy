@@ -63,8 +63,7 @@ pathlib tensorflow matplotlib numpy pandas os PIL glob tensorflow keras
 - The project drew insights from various sources to develop an effective CNN model.
 
 
-## Contact
-Created by  - feel free to contact me!
+
 
 
 <!-- Optional -->

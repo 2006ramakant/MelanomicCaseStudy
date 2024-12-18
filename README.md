@@ -58,14 +58,13 @@ pathlib tensorflow matplotlib numpy pandas os PIL glob tensorflow keras
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by the need for efficient melanoma detection.
+- The "Skin cancer ISIC The International Skin Imaging Collaboration" dataset was used for training and evaluation.
+- The project drew insights from various sources to develop an effective CNN model.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by  - feel free to contact me!
 
 
 <!-- Optional -->
